@@ -1,0 +1,110 @@
+body
+{
+    background-color: lightpink;
+}
+
+
+
+
+h1
+{
+    color:rgb(0, 0, 0)
+}
+
+a
+{
+    text-decoration: none;
+    font-family: Impact;
+    padding: 10px;
+    font-size: 16pt;
+}
+
+a:hover
+{
+    color:black;
+    font-size: 18pt;
+}
+
+.header
+{
+    width: 100%;
+    background-color: rgb(213, 123, 240);
+    padding-bottom: 30px;
+}
+
+.slider
+{
+    width: 100%;
+    background-color: rgb(235, 225, 208);
+    padding-bottom: 400px;
+}
+
+.box1
+{
+    width: 25%;
+    background-color: plum;
+    padding-bottom: 200px;
+    float: right;
+}
+
+.box2
+{
+    width: 25%;
+    background-color: peachpuff;
+    padding-bottom: 200px;
+    float: right;
+}
+
+.box3
+{
+    width: 25%;
+    background-color: plum;
+    padding-bottom: 200px;
+    float: right;
+}
+
+.box4
+{
+    width: 25%;
+    background-color: peachpuff;
+    padding-bottom: 200px;
+    float: right;
+}
+
+.content
+{
+    text-align: justify;
+    font-family:inherit;
+}
+
+table, tr, td, th
+{
+    border: 1px solid purple;
+    border-collapse: collapse;
+}
+
+td
+{
+    padding: 5px;
+}
+
+tr
+{
+    background-color: rgb(233, 200, 220);
+}
+
+tr:nth-child(odd)
+{
+    background-color: palevioletred;
+}
+
+th
+{
+    background-color: black;
+    color: beige;
+}
+
+tr:hover
+{
+    background-color: fuchsia;
+}
